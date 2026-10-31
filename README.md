@@ -235,4 +235,4 @@ This repository serves as the official landing page for Shockwave Player. The so
 **Get the most recent version of Shockwave Player today!**
 
 ---
-**Last updated:** 2026-10-31 18:57:15 UTC
+**Last updated:** 2026-10-31 22:11:19 UTC
